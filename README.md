@@ -1,7 +1,6 @@
-[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/mehdigolzadeh/BoDeGHa/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/mehdigolzadeh/BoDeGHa)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/sgl-umons/BoDeGHa/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/sgl-umons/BoDeGHa)
 
 # BoDeGHa 
-_(previously BoDeGa)_
 
 An automated tool to identify bots in GitHub repositories by analysing pull request and issue comments. 
 The tool has been developed by Mehdi Golzadeh, researcher at the [Software Engineering Lab](http://informatique.umons.ac.be/genlog/) of the [University of Mons](https://www.umons.ac.be) (Belgium) as part of his PhD research in the context of the [SECO-ASSIST Excellence of Science research project](https://secoassist.github.io).
